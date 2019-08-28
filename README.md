@@ -1,4 +1,4 @@
-# BDCI-HaikouVIsualization
+# BDCI-HaikouVisualization
 
 ## 赛题名称
 
